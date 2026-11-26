@@ -62,8 +62,8 @@
 ## Conecta conmigo
 <p align="center">
   <a href="https://github.com/dggi1507"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:giraldogiraldodaniel3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
 
 <!--separador horizontal (degradado)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="mailto:giraldogiraldodaniel3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
